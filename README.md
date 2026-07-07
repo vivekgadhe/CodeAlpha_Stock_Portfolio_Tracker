@@ -72,7 +72,3 @@ Total Investment,,,1110
 This project is open-source and available under the MIT License.
 ```
 
-
-This README.md is **exam-ready and recruiter-friendly** — it shows off your coding skills and makes the repo look professional.  
-
-👉 Do you want me to also add **GitHub badges** (Python version, license, stars, forks) at the top so your repo looks even more polished?
