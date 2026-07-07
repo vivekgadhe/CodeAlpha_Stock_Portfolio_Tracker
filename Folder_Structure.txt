@@ -1,0 +1,7 @@
+StockPortfolioTracker/
+│
+├── main.py              # Entry point of the program
+├── portfolio.py         # Functions for calculating investment
+├── prices.py            # Hardcoded dictionary of stock prices
+├── README.md            # Project description
+└── results.txt/.csv     # Optional output file (generated after run)
